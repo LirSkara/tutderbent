@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<div class="container col-xxl-7 mt-3 px-3">
+<div class="container border-bottom shadow-sm col-xxl-7 mt-3 pb-1 px-3">
     <div class="text-center mt-4">
         <a href="/" class="text-decoration-none text-dark">
             <img src="/images/fortress.jpg" class="col-3 col-lg-2 col-lg-1 mb-2" alt="Bootstrap Themes" width="40"><br>
@@ -90,12 +90,12 @@
             </div>
 </div>
 
-<div class="bg-light pt-1 pb-3 mt-3">
+<div class="bg-light pt-1 pb-3 mt-1">
 <div class="container col-xxl-7 px-0">
     <div class="row row-cols-1 row-cols-lg-2 mx-0">
         <div class="col">
             <div class="shadow bg-white border rounded-3 mt-2">
-                <img src="https://tutderbent.ru/media/images/news/967302825.jpg" class="img-fluid rounded-top" alt="Дербенту придали особый статус">
+                <img src="https://tutderbent.ru/media/images/news/967302825.jpg" class="img-fluid rounded-top img-cover w-100" alt="Дербенту придали особый статус">
                 <div class="text-dark px-3 pt-2">
                     <div class="mb-3">
                         <a href="page/new.php?id=12" class="text-decoration-none link-dark">
@@ -113,7 +113,7 @@
 
         <div class="col">
             <div class="shadow bg-white border rounded-3 mt-2">
-                <img src="https://tutderbent.ru/media/images/list/1460494246.jpeg" class="img-fluid rounded-top" alt="Дербенту придали особый статус">
+                <img src="https://tutderbent.ru/media/images/list/1460494246.jpeg" class="img-fluid rounded-top img-cover w-100" alt="Дербенту придали особый статус">
                 <div class="text-dark px-3 pt-2">
                     <div class="mb-3">
                         <div>
