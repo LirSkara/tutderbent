@@ -15,3 +15,4 @@ use App\Http\Controllers\MainController; //Подключаем основной
 */
 
 Route::get('/', [MainController::class, 'home']);
+Route::get('/catalog', [MainController::class, 'catalog']);
