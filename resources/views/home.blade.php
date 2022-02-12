@@ -67,7 +67,7 @@
     <div>
         <ul class="row row-cols-4 px-0 py-0 my-3 text-center mx-0 rounded-3 small">
             <li class="col px-0 list-group">
-                <a href="/page/catalog.php" class="text-decoration-none link-dark">
+                <a href="/catalog" class="text-decoration-none link-dark">
                     <i class="bi bi-book text-primary d-block fs-3"></i>Каталог
                 </a>
             </li>

@@ -18,16 +18,6 @@
 <nav class="mt-2">
   <div class="container-fluid d-flex flex-wrap">
     <ul class="nav me-auto small">
-
-    {{-- <li class="dropdown">
-      <button class="btn bg-light border border-custom me-1 py-2 dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-        <i class="bi bi-globe"></i>
-      </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-        <li><a class="dropdown-item" href="">English</a></li>
-        <li><a class="dropdown-item" href="">Русский</a></li>
-      </ul>
-    </li> --}}
       <li class="nav-item bg-light btn border px-1 me-1">
         <a href="tel:+79618888837" class="link-dark px-2"><i class="bi bi-telephone"></i></a>
       </li>
@@ -60,9 +50,6 @@
           <li class="nav-item bg-light border btn border-custom px-1 me-1">
             <a href="tel:+79618888837" class="link-dark px-2 py-1"><i class="bi bi-telephone"></i></a>
           </li>
-          <!-- <li class="nav-item bg-gray border-custom px-1 me-1">
-            <a href="#" class="nav-link link-dark px-2 py-1"><i class="bi bi-instagram"></i></a>
-          </li> -->
           <li class="nav-item bg-light border btn border-custom px-1 me-1">
             <a href="#" class="link-dark px-2"><i class="bi bi-instagram"></i></a>
           </li>
